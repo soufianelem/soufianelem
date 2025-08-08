@@ -15,8 +15,6 @@ I'm a Practical Computer Science student at Westphalian University of Applied Sc
 ### 🌱 Continuous Learning
 I'm always looking to expand my knowledge and skills, particularly in AI, machine learning, and software development.
 
-### 📧 Contact Me
-Feel free to reach out at: [soufiane.elmachkouri@studmail.w-hs.de](mailto:soufiane.elmachkouri@studmail.w-hs.de)
 
 ---
 
