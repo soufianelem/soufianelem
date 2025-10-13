@@ -10,10 +10,10 @@
 I'm currently working as a working student in the AI sector.
 
 ### 👯 About Me
-I'm a Practical Computer Science student at Westphalian University of Applied Sciences in Germany, constantly learning new things every day!
+I'm a Computer Science graduate (B.Sc.) from the Westphalian University of Applied Sciences in Germany, passionate about practical applications of technology and continuous learning.
 
 ### 🌱 Continuous Learning
-I'm always looking to expand my knowledge and skills, particularly in AI, machine learning, and software development.
+I'm always expanding my knowledge in AI, Machine Learning, and Data Science to develop innovative and impactful solutions.
 
 
 ---
