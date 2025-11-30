@@ -5,13 +5,8 @@
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Specialized+in+RAG+%26+LLM+Applications+%F0%9F%9A%80;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+Intelligent+AI+Systems;Specialized+in+RAG+%26+LLM+Applications;Turning+Data+into+Decisions" alt="Typing SVG" />
   </a>
-
-  <br/>
-  
-  <!-- Profile Views & Social Badges -->
-  <img src="https://komarev.com/ghpvc/?username=soufianeelm&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
   
 </div>
 
@@ -98,7 +93,6 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
