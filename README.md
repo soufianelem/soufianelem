@@ -14,7 +14,7 @@
 
 ## About Me
 
-<img align="right" alt="AI Animation" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
 
 ```python
 class AIEngineer:
@@ -40,7 +40,7 @@ me = AIEngineer()
 me.say_hi()
 ```
 
-<br clear="both"/>
+</div>
 
 ---
 
