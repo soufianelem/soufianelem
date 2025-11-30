@@ -14,8 +14,6 @@
 
 ## About Me
 
-<div align="center">
-
 ```python
 class AIEngineer:
     def __init__(self):
@@ -39,8 +37,6 @@ class AIEngineer:
 me = AIEngineer()
 me.say_hi()
 ```
-
-</div>
 
 ---
 
