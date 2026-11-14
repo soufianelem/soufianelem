@@ -143,7 +143,6 @@ Data preparation, Python development and support for AI projects.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soufiane-e-805135303/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmachkourisoufiane@gmail.com)
 ![Location](https://img.shields.io/badge/Location-Germany-4B5563?style=for-the-badge&logo=googlemaps&logoColor=white)
 
