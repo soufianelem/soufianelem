@@ -7,6 +7,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=RAG+Systems+from+Prototype+to+Production;LLM+Apps+with+Azure+OpenAI+%26+Qdrant;Agentic+AI+%26+MCP" alt="Typing SVG" />
   </a>
+
+  **AI Engineer based in Germany, focused on building and deploying practical Generative AI applications.**<br/>
+  I specialize in designing RAG pipelines, integrating LLMs into business workflows, and evaluating AI application quality.
   
 </div>
 
@@ -104,6 +107,26 @@ me.say_hi()
 
 ---
 
+## Featured Projects
+
+| Project | Description |
+|:---|:---|
+| **Enterprise RAG System** | Advanced document retrieval with vector search, evaluation and source-grounded answers |
+| **Agentic AI with MCP** | AI agents with external tools, API integrations and MCP servers |
+| **LLM Evaluation Dashboard** | Evaluation and monitoring of LLM applications using RAGAS |
+
+---
+
+## Professional Experience
+
+**GenAI Developer** | Zotz Klimas<br/>
+Building production-oriented RAG applications, HR chatbots and AI-powered workflow automation.
+
+**Working Student – Data Analysis & AI** | evocenta GmbH<br/>
+Data preparation, Python development and support for AI projects.
+
+---
+
 ## Contribution Snake
 
 <div align="center">
@@ -112,6 +135,17 @@ me.say_hi()
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
   </picture>
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmachkourisoufiane@gmail.com)
+![Location](https://img.shields.io/badge/Location-Germany-4B5563?style=for-the-badge&logo=googlemaps&logoColor=white)
+
 </div>
 
 ---
